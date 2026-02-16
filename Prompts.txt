@@ -1,0 +1,6 @@
+ Assignment 1 (Java)
+
+1) Review my approach for implementing durable step memoization in SQLite; suggest edge cases I should test.
+2) What are common SQLite concurrency issues (SQLITE_BUSY) and simple mitigation options for parallel steps?
+3) Recommend a step-key strategy that stays stable with loops/conditionals in normal Java code.
+4) Explain zombie steps and acceptable assignment-level handling + wording for README.
