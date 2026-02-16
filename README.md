@@ -40,6 +40,12 @@ This engine records `RUNNING` first. On resume:
 - if a step is found as `RUNNING`, it is **retried** (treat as at-least-once execution).
 
 Note: exactly-once side effects generally require **idempotent operations** or **external dedupe keys**.
+## Screenshots
+
+![Run Output](Screenshot%20(147).png)
+
+![Run Output](Screenshot%20(148).png)
+
 
 ## Build
 Requires Java 17+ and Maven.
